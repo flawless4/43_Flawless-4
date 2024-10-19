@@ -132,4 +132,4 @@ Contributions to improve Medicine Reminder are welcome. Please feel free to subm
 ---
 
 ## License
-[MIT LICENSE]
+[MIT LICENSE](LICENSE)
